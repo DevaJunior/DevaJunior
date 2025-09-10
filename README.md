@@ -27,7 +27,7 @@ Acredito que a programação é uma ferramenta poderosa para acelerar a pesquisa
 ### Estatísticas
 <table>
   <tr>
-    <!-- <td> <img src="https://github-readme-stats.vercel.app/api?username=DevaJunior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/> </td> -->
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=DevaJunior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/> </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevaJunior&theme=tokyonight&layout=compact" alt="Linguagens Mais Usadas"/>
     </td>
