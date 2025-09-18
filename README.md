@@ -2,7 +2,7 @@
 
 **Entusiasta de Bio-IT e Desenvolvedor Front-end**
 
-Desenvolvedor Front-end com foco na construção de aplicações modernas com **React** (TypeScript & JavaScript). Atualmente sou graduando em Análise e Desenvolvimento de Sistemas e mestrando em Biotecnologia (Ênfase em modelagem estatística em lógica Fuzzy).
+Desenvolvedor Front-end com foco na construção de aplicações modernas com **React** (TypeScript, JavaScript e Python). Atualmente sou graduando em DS (Análise e Desenvolvimento de Sistemas) e mestrando em Biotecnologia (Ênfase em modelagem da lógica Fuzzy).
 
 Acredito que a programação é uma ferramenta poderosa para acelerar a pesquisa e desenvolvimento científico. Minha experiência em ADS e meu conhecimento em Biotecnologia me permitem 'traduzir' as necessidades de pesquisadores e cientistas em soluções de software funcionais e elegantes.
 
@@ -27,10 +27,8 @@ Acredito que a programação é uma ferramenta poderosa para acelerar a pesquisa
 ### Estatísticas
 <table>
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=DevaJunior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/> </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevaJunior&theme=tokyonight&layout=compact" alt="Linguagens Mais Usadas"/>
-    </td>
+    <!-- <td> <img src="https://github-readme-stats.vercel.app/api?username=DevaJunior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/> </td> -->
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevaJunior&theme=tokyonight&layout=compact" alt="Linguagens Mais Usadas"/></td>
   </tr>
 </table>
 
